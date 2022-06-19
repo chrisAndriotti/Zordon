@@ -1839,14 +1839,14 @@
 		"name": "variable.other.object",
 		"scope":"variable.other.object",
 		"settings": {
-			"foreground": "#8d8d8d"
+			"foreground": "#9e9d9d"
 		}
 	  },
 	  {
 		"name": "variable.other.readwrite",
 		"scope":"variable.other.readwrite",
 		"settings": {
-			"foreground": "#168692",
+			"foreground": "#9E9D9D",
 		}
 	  }
 	],
@@ -1877,7 +1877,7 @@
 	  "list.activeSelectionForeground": "#47edff",
 	  "tree.indentGuidesStroke": "#4334343a",
 	  "list.dropBackground": "#0a0a0a00",
-	  "list.highlightForeground": "#3091a1",
+	  "list.highlightForeground": "#1d1d1d",
 	  "list.focusBackground": "#062f4a",
 	  "list.focusForeground": "#cccccc",
 	  "listFilterWidget.background": "#236562",
@@ -1933,7 +1933,7 @@
 	  "editor.inactiveSelectionBackground": "#282828",
 	  "editorWhitespace.foreground": "#144345",
 	  "editor.selectionHighlightBackground": "#6b6b6b3c",
-	  "editor.selectionHighlightBorder": "#3bebff00",
+	  "editor.selectionHighlightBorder": "#47474700",
 	  "editor.findMatchBackground": "#3bedff3c",
 	  "editor.findMatchBorder": "#3bedff3c",
 	  "editor.findMatchHighlightBackground": "#6b6b6b3c",
@@ -1942,7 +1942,7 @@
 	  "editor.findRangeHighlightBorder": "#b2464600",
 	  "editor.rangeHighlightBackground": "#6666660b",
 	  "editor.rangeHighlightBorder": "#d5232300",
-	  "editor.hoverHighlightBackground": "#3bedff3c",
+	  "editor.hoverHighlightBackground": "#3a3a3abd",
 	  "editor.wordHighlightStrongBackground": "#3bedff3c",
 	  "editor.wordHighlightStrongBorder": "#3bedff00",
 	  "editor.wordHighlightBackground": "#3bedff3c",
@@ -2022,7 +2022,7 @@
 	  "tab.inactiveForeground": "#b0b0b0",
 	  "tab.hoverBackground": "#1f1f1f",
 	  "tab.hoverForeground": "#00c2c7d5",
-	  "tab.hoverBorder": "#00c2c7d5",
+	  "tab.hoverBorder": "#494949d5",
 	  "scrollbarSlider.background": "#262626",
 	  "scrollbarSlider.hoverBackground": "#4351516e",
 	  "scrollbarSlider.activeBackground": "#326666",
@@ -2068,7 +2068,7 @@
 	  "editorSuggestWidget.border": "#00c2c700",
 	  "editorSuggestWidget.foreground": "#bebebe",
 	  "editorSuggestWidget.highlightForeground": "#00c2c7",
-	  "editorSuggestWidget.selectedBackground": "#004b4d",
+	  "editorSuggestWidget.selectedBackground": "#414141",
 	  "editorHoverWidget.foreground": "#bababae7",
 	  "editorHoverWidget.background": "#242424",
 	  "editorHoverWidget.border": "#00c2c78f",
