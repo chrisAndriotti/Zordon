@@ -334,7 +334,7 @@
 	  },
 	  {
 		 "name": "js variable readwrite",
-		 "scope": "meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
+		 "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 		 "settings": {
 			"foreground": "#b2b2b2"
 		 }
@@ -1834,20 +1834,20 @@
 		 "settings": {
 			"fontStyle": "italic"
 		 }
-	  },
-	  {
-		"name": "variable.other.object",
-		"scope":"variable.other.object",
-		"settings": {
-			"foreground": "#9e9d9d"
-		}
-	  },
-	  {
-		"name": "variable.other.readwrite",
-		"scope":"variable.other.readwrite",
-		"settings": {
-			"foreground": "#9E9D9D",
-		}
+		},
+		{
+		 "name": "variable.other.object",
+		 "scope":"variable.other.object",
+		 "settings": {
+			 "foreground": "#9e9d9d"
+		 }
+		},
+		{
+		 "name": "variable.other.readwrite",
+		 "scope":"variable.other.readwrite",
+		 "settings": {
+			 "foreground": "#9E9D9D",
+		 }
 	  }
 	],
 	"colors": {
