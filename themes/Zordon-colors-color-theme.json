@@ -1839,7 +1839,7 @@
 	"colors": {
 	  "foreground": "#00e5ff",
 	  "focusBorder": "#168692",
-	  "selection.background": "#135860",
+	  "selection.background": "#515151",
 	  "scrollbar.shadow": "#0f020200",
 	  "activityBar.foreground": "#47edff",
 	  "activityBar.background": "#1b1b1b",
@@ -2020,7 +2020,7 @@
 	  "pickerGroup.border": "#00000000",
 	  "pickerGroup.foreground": "#bababa",
 	  "debugToolBar.background": "#282828",
-	  "debugToolBar.border": "#2b898e",
+	  "debugToolBar.border": "#00000000",
 	  "notifications.foreground": "#bcbcbc",
 	  "notifications.background": "#282828",
 	  "notificationToast.border": "#1f4741",
