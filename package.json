@@ -1,0 +1,25 @@
+{
+    "name": "zordon-color-theme",
+    "displayName": "Zordon Color Theme",
+    "description": "A dark theme with cyan highlights",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zordon Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zordon-colors-color-theme.json"
+            }
+        ]
+    },
+    "galleryBanner": {
+        "color": "#387E80",
+        "theme": "dark"
+    }
+}
