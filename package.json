@@ -22,5 +22,10 @@
     "galleryBanner": {
         "color": "#387E80",
         "theme": "dark"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chrisAndriotti/Zordon-vscode-theme"
+    },
+    "homepage": "https://github.com/chrisAndriotti/Zordon-vscode-theme/blob/master/README.md"
 }
