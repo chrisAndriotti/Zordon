@@ -3,7 +3,7 @@
     "publisher": "zordon",
     "displayName": "Zordon Color Theme",
     "description": "A dark theme with cyan highlights",
-    "version": "1.6.0",
+    "version": "1.7.0",
     "engines": {
         "vscode": "^1.51.0"
     },
