@@ -5,7 +5,7 @@
     "description": "A dark theme with cyan highlights",
     "version": "1.6.0",
     "engines": {
-        "vscode": "^1.68.0"
+        "vscode": "^1.51.0"
     },
     "categories": [
         "Themes"
